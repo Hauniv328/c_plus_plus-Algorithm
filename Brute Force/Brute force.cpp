@@ -6,7 +6,7 @@ int main() {
     int arr[10] = {1, 7, 6, 4, 8, 14, 23, 2, 11, 25};
     int target;
 
-    cout << "What number you want? (1~100): ";
+    cout << "What number you want to find? (1~100): ";
     cin >> target;
 
     for (int i = 0; i < 10; i++) {
