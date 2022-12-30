@@ -18,6 +18,6 @@ int main() {
     }
 
     if(target) {
-        cout << "That number is cannot founded." << endl;
+        cout << "That number is cannot be found." << endl;
     }
 }
